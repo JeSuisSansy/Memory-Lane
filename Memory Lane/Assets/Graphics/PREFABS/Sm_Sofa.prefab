@@ -81,9 +81,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: e5943a609c2cb4d4fbeb09a8ca82f6a0, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e5943a609c2cb4d4fbeb09a8ca82f6a0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 27562c22e1811d349bc671b6a45906ae, type: 2}
+    - target: {fileID: -7511558181221131132, guid: e5943a609c2cb4d4fbeb09a8ca82f6a0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 049b9367c982b9348ac2e2f2bc03f09c, type: 2}
     - target: {fileID: 919132149155446097, guid: e5943a609c2cb4d4fbeb09a8ca82f6a0, type: 3}
       propertyPath: m_Name
       value: SM_Sofa_01
